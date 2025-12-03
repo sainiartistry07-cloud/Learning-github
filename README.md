@@ -1,1 +1,2 @@
 # Learning-github
+detail github
